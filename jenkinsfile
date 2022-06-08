@@ -1,4 +1,4 @@
-pipeline {
+stages {
     agent any
     tools{
         maven 'M2_HOME'
